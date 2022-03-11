@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goatwu1993
-- 🌱 I’m a devops and backend developer
+- 🌱 I’m a python backend developer
 
 <!---
 goatwu1993/goatwu1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
