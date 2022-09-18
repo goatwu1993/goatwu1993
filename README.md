@@ -1,5 +1,6 @@
 - Backend developer/DevOps
-- :houses: Django/Django Rest Framework/Celery
-- :recycle: GitHub Actions/AWS CodeBuild
-- :cloud: AWS/Azure
-- :package: Docker/Kubernetes/ECS
+- Programming Language: Python/Typescript
+- Frameworks: Django/Django Rest Framework/Celery
+- CI/CD: GitHub Actions/AWS CodeBuild
+- Cloud Providers: AWS/Azure
+- Container: Docker/Kubernetes/ECS
