@@ -3,4 +3,5 @@
 - Frameworks: Django/Django Rest Framework/Celery
 - CI/CD: GitHub Actions/AWS CodeBuild
 - Cloud Providers: AWS/Azure
+- IaC: Terraform/Terragrunt
 - Container: Docker/Kubernetes/ECS
